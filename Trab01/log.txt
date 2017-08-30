@@ -1,0 +1,16 @@
+k 1 -- Epoch 1
+Norm: 7.89, NNZs: 90, Bias: 1998.444177, T: 370972, Avg. loss: 17586.897597
+Total training time: 0.20 seconds.
+-- Epoch 2
+Norm: 7.76, NNZs: 90, Bias: 1998.458353, T: 741944, Avg. loss: 8816.305132
+Total training time: 0.40 seconds.
+-- Epoch 3
+Norm: 7.77, NNZs: 90, Bias: 1998.349018, T: 1112916, Avg. loss: 5892.745782
+Total training time: 0.60 seconds.
+-- Epoch 4
+Norm: 7.78, NNZs: 90, Bias: 1998.351232, T: 1483888, Avg. loss: 4430.964245
+Total training time: 0.79 seconds.
+-- Epoch 5
+Norm: 7.74, NNZs: 90, Bias: 1998.422280, T: 1854860, Avg. loss: 3553.894959
+Total training time: 1.00 seconds.
+2 -- Epoch 1
