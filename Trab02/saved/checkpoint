@@ -1,0 +1,2 @@
+model_checkpoint_path: "softsign_6.nn.ckpt"
+all_model_checkpoint_paths: "softsign_6.nn.ckpt"
